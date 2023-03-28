@@ -1,3 +1,6 @@
 [submodule "stm32h7xx_hal_driver"]
 	path = stm32h7xx_hal_driver
 	url = https://github.com/KNR-PW/stm32h7xx_hal_driver.git
+[submodule "HAL062_panel"]
+	path = HAL062_panel
+	url = https://github.com/KNR-PW/HAL062_panel.git
